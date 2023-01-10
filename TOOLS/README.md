@@ -2,21 +2,31 @@
 # Programming_C_CPP
 ## Overview
 
-<!-- <p align="center"> -->
-<!-- <img src="IMG/Azure_overview.png" width="400" align="center">-->
-<!--</p -->
+<p align="center"> 
+<img src="IMG/IDE-C.png" width="400" align="center">
+</p 
 
 **Programming C/C++** 
 
 ## Concept
 **Software for C/C++**
  
-Code::Blocks IDE<br>
+**Code::Blocks IDE**<br>
+Windows<br>
 NOTE: The codeblocks-20.03mingw-setup.exe file includes additionally the GCC/G++/GFortran compiler and GDB debugger from MinGW-W64 project (version 8.1.0, 32/64 bit, SEH).<br>
 codeblocks-20.03mingw-setup.exe<br>
 codeblocks-20.03mingw-nosetup.zip
 
-Visual Studio Code IDE<br>
+**Code::Blocks IDE**<br>
+Linux<br>
+
+**Visual Studio Code IDE**<br>
+Online<br>
+* [Visual Studio Code Online](https://vscode.dev/)<br>
+Com github.com em Sign in pressionar ".", isso encaminha você ao VScode - Online
+
+**Visual Studio Code IDE**<br>
+Windows<br>
 Add the path to your Mingw-w64 bin folder to the Windows PATH environment variable by using the following steps:
 
 1. In the Windows search bar, type 'settings' to open your Windows Settings.<br>
@@ -31,6 +41,8 @@ gcc --version <br>
 g++ --version <br>
 gdb --version 
 
+**Visual Studio Code IDE**<br>
+Linux <br>
 ## Software
 * [Dev C++ IDE](https://sourceforge.net/projects/orwelldevcpp/files/latest/download) for Windows
 * [Code::Blocks IDE](http://www.codeblocks.org/downloads/binaries) for Windows, Linux or Mac OS.
@@ -38,12 +50,13 @@ gdb --version
 ## Steps :
  1. **Download** the repo.
  
- 
-
+EMMET (extensão) - Produtividade 
+* [EMMET](https://docs.emmet.io/cheat-sheet/)
     
 ## Compatibility
    
    
 ## Output
    
-
+## Sorce
+* [NetworkChuck](https://www.youtube.com/watch?v=1ZfO149BJvg)
