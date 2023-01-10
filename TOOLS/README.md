@@ -11,13 +11,25 @@
 ## Concept
 **Software for C/C++**
  
-Code::Blocks IDE
-NOTE: The codeblocks-20.03mingw-setup.exe file includes additionally the GCC/G++/GFortran compiler and GDB debugger from MinGW-W64 project (version 8.1.0, 32/64 bit, SEH).
-codeblocks-20.03mingw-setup.exe	
+Code::Blocks IDE<br>
+NOTE: The codeblocks-20.03mingw-setup.exe file includes additionally the GCC/G++/GFortran compiler and GDB debugger from MinGW-W64 project (version 8.1.0, 32/64 bit, SEH).<br>
+codeblocks-20.03mingw-setup.exe<br>
 codeblocks-20.03mingw-nosetup.zip
 
-Visual Studio Code IDE
+Visual Studio Code IDE<br>
+Add the path to your Mingw-w64 bin folder to the Windows PATH environment variable by using the following steps:
 
+1. In the Windows search bar, type 'settings' to open your Windows Settings.<br>
+2. Search for Edit environment variables for your account.<br>
+3. Choose the Path variable in your User variables and then select Edit.<br>
+4. Select New and add the Mingw-w64 destination folder path to the system path. The exact path depends on which version of Mingw-w64 you have installed and where you installed it. If you used the settings above to install Mingw-w64, then add this to the path: C:\Program Files\CodeBlocks\MinGW\bin. <br>
+5. Select OK to save the updated PATH. You will need to reopen any console windows for the new PATH location to be available.
+6. Reboot or Sign out  <br>
+**Check your MinGW installation**<br>
+To check that your Mingw-w64 tools are correctly installed and available, open a new Command Prompt and type: <br>
+gcc --version <br>
+g++ --version <br>
+gdb --version 
 
 ## Software
 * [Dev C++ IDE](https://sourceforge.net/projects/orwelldevcpp/files/latest/download) for Windows
