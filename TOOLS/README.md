@@ -3,7 +3,7 @@
 ## Overview
 
 <p align="center"> 
-<img src="IMG/IDE-C.png" width="400" align="center">
+<img src="IDE-C.png" width="400" align="center">
 </p 
 
 **Programming C/C++** 
