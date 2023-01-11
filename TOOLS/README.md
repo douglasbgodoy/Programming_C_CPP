@@ -3,7 +3,19 @@
 ## Overview
 
 <p align="center"> 
-<img src="IDE-C.png" width="400" align="center">
+<img src="/IMG/IDE-C.png" width="400" align="center">
+</p 
+
+<p align="center"> 
+<img src="/IMG/AutoInstallCpp.png" width="400" align="center">
+</p 
+
+<p align="center"> 
+<img src="/IMG/002-ExtensionPackCpp.png" width="400" align="center">
+</p 
+
+<p align="center"> 
+<img src="/IMG/003-ExtensionCpp.png" width="400" align="center">
 </p 
 
 **Programming C/C++** 
@@ -27,6 +39,10 @@ Com github.com em Sign in pressionar ".", isso encaminha você ao VScode - Onlin
 
 **Visual Studio Code IDE**<br>
 Windows<br>
+
+
+
+
 Add the path to your Mingw-w64 bin folder to the Windows PATH environment variable by using the following steps:
 
 1. In the Windows search bar, type 'settings' to open your Windows Settings.<br>
