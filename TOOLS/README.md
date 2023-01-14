@@ -86,10 +86,5 @@ Linux <br>
 EMMET (extensão) - Produtividade 
 * [EMMET](https://docs.emmet.io/cheat-sheet/)
     
-## Compatibility
-   
-   
-## Output
-   
-## Sorce
+
 
