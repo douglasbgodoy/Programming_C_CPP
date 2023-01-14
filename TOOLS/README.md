@@ -24,7 +24,7 @@ Linux<br>
 **Visual Studio Code IDE**<br>
 Online<br>
 * [Visual Studio Code Online](https://vscode.dev/)<br>
-Com github.com em Sign in pressionar ".", isso encaminha você ao VScode - Online
+Após fazer Sign in no github.com, no diretório que deseja realizar as alteração pressione "." isso encaminha você ao VScode - Online
 
 **Visual Studio Code IDE**<br>
 Windows<br>
@@ -33,24 +33,24 @@ Windows<br>
 * [Estensão Cpp ](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 * [Documentação Using GCC with MinGW ](https://code.visualstudio.com/docs/cpp/config-mingw)
 <br>
-Criae um arquivo primeiro.cpp 
+Crie um arquivo "primeiro.cpp"<br> 
 Neste momento temos a imagem pedindo para instalar a extensão<br>
 <p align="center"> 
 <img src="/TOOLS/IMG/001-AutoInstallCpp.png" width="400" align="center">
 </p 
 <br>
-Uma outra forma de instalar a extensão é pesquisa a C/C++ Extension Pack <br>
+Uma outra forma de instalar a extensão é pesquisar a C/C++ Extension Pack <br>
 <p align="center"> 
 <img src="/TOOLS/IMG/002-ExtensionPackCpp.png" width="400" align="center">
 </p 
 <br>
-Tambem é possivel instalar somente esta extensão, mas recomendo instalar as duas <br>
+Também é possível instalar somente esta extensão, porém recomendo instalar as duas <br>
 <p align="center"> 
 <img src="/TOOLS/IMG/003-ExtensionCpp.png" width="400" align="center">
 </p 
 <br>
-Agora com as extensões instaladas é necessario uma configuração para que seja possivel compilar projetos em C++<br>
-Para que tem o CodeBlocks instalado fazer o passo a passo ou <a href="https://code.visualstudio.com/docs/cpp/config-mingw"> Documentação Using GCC with MinGW</a>.
+Agora com as extensões instaladas é necessário uma configuração para que seja possivel compilar projetos em C++<br>
+Para quem tem o CodeBlocks instalado realizar o passo a passo  abaixo ou <a href="https://code.visualstudio.com/docs/cpp/config-mingw"> Documentação Using GCC with MinGW</a>.
 <br>
 <br>
 <!---
