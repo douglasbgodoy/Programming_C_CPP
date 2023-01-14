@@ -3,7 +3,7 @@
 ## Overview
 
 <p align="center"> 
-<img src="/IMG/IDE-C.png" width="400" align="center">
+<img src="/TOOLS/IMG/IDE-C.png" width="400" align="center">
 </p 
 
 
@@ -28,23 +28,36 @@ Com github.com em Sign in pressionar ".", isso encaminha você ao VScode - Onlin
 
 **Visual Studio Code IDE**<br>
 Windows<br>
+
+* [Documentação e Download ](https://code.visualstudio.com/docs/?dv=win)
+* [Estensão Cpp ](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
+* [Documentação Using GCC with MinGW ](https://code.visualstudio.com/docs/cpp/config-mingw)
+<br>
+Criae um arquivo primeiro.cpp 
+Neste momento temos a imagem pedindo para instalar a extensão<br>
+<p align="center"> 
+<img src="/TOOLS/IMG/001-AutoInstallCpp.png" width="400" align="center">
+</p 
+<br>
+Uma outra forma de instalar a extensão é pesquisa a C/C++ Extension Pack <br>
+<p align="center"> 
+<img src="/TOOLS/IMG/002-ExtensionPackCpp.png" width="400" align="center">
+</p 
+<br>
+Tambem é possivel instalar somente esta extensão, mas recomendo instalar as duas <br>
+<p align="center"> 
+<img src="/TOOLS/IMG/003-ExtensionCpp.png" width="400" align="center">
+</p 
+<br>
+Agora com as extensões instaladas é necessario uma configuração para que seja possivel compilar projetos em C++<br>
+Para que tem o CodeBlocks instalado fazer o passo a passo ou <a href="https://code.visualstudio.com/docs/cpp/config-mingw"> Documentação Using GCC with MinGW</a>.
+<br>
+<br>
 <!---
-https://code.visualstudio.com/docs/?dv=win
-https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
-https://code.visualstudio.com/docs/cpp/config-mingw
- <br>
-<p align="center"> 
-<img src="/IMG/001-AutoInstallCpp.png" width="400" align="center">
-</p 
-<br>
-<p align="center"> 
-<img src="/IMG/002-ExtensionPackCpp.png" width="400" align="center">
-</p 
-<br>
-<p align="center"> 
-<img src="/IMG/003-ExtensionCpp.png" width="400" align="center">
-</p 
-<br>
+/IMG/IDE-C.png
+/IMG/001-AutoInstallCpp.png
+/IMG/001-AutoInstallCpp.png
+/TOOLS/IMG/001-AutoInstallCpp.png
 -->
 
 Add the path to your Mingw-w64 bin folder to the Windows PATH environment variable by using the following steps:
@@ -79,4 +92,4 @@ EMMET (extensão) - Produtividade
 ## Output
    
 ## Sorce
-* [NetworkChuck](https://www.youtube.com/watch?v=1ZfO149BJvg)
+
