@@ -19,7 +19,18 @@ codeblocks-20.03mingw-setup.exe<br>
 codeblocks-20.03mingw-nosetup.zip
 
 **Code::Blocks IDE**<br>
-Linux<br>
+Ubuntu<br>
+
+1. Informção<br>
+http://www.codeblocks.org/downloads/binaries/#imagesoslinux48pnglogo-linux-32-and-64-bit<br>
+https://launchpad.net/~codeblocks-devs<br>
+https://launchpad.net/~codeblocks-devs/+archive/ubuntu/release<br>
+
+2. Fazer atualização <br>
+sudo apt update<br>
+
+3. Instalar<br>
+sudo apt install codeblocks<br>
 
 **Visual Studio Code IDE**<br>
 Online<br>
