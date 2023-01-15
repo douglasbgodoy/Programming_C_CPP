@@ -1,13 +1,11 @@
 
-# Programming_C_CPP
-## Overview
+#  Integrated Development Environment (IDE)<br> Programming C/C++
 
 <p align="center"> 
 <img src="/TOOLS/IMG/IDE-C.png" width="400" align="center">
 </p 
 
-
-**Programming C/C++** 
+<br>
 
 ## Concept
 **Software for C/C++**
@@ -21,11 +19,10 @@ codeblocks-20.03mingw-nosetup.zip
 **Code::Blocks IDE**<br>
 Ubuntu<br>
 
-1. Informção<br>
-http://www.codeblocks.org/downloads/binaries/#imagesoslinux48pnglogo-linux-32-and-64-bit<br>
-https://launchpad.net/~codeblocks-devs<br>
-https://launchpad.net/~codeblocks-devs/+archive/ubuntu/release<br>
-
+1. Documentação<br>
+* [Download Code::Blocks IDE](http://www.codeblocks.org/downloads/binaries/#imagesoslinux48pnglogo-linux-32-and-64-bit)
+* [Documentação codeblocks-devs ](https://launchpad.net/~codeblocks-devs)
+* [Documentação codeblocks-devs release ](https://launchpad.net/~codeblocks-devs/+archive/ubuntu/release)
 2. Fazer atualização <br>
 sudo apt update<br>
 
@@ -41,7 +38,7 @@ Após fazer Sign in no github.com, no diretório que deseja realizar as alteraç
 Windows<br>
 
 * [Documentação e Download ](https://code.visualstudio.com/docs/?dv=win)
-* [Estensão Cpp ](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
+* [Estensão C/C++ for Visual Studio Code ](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 * [Documentação Using GCC with MinGW ](https://code.visualstudio.com/docs/cpp/config-mingw)
 <br>
 Crie um arquivo "primeiro.cpp"<br> 
@@ -88,6 +85,7 @@ gdb --version
 **Visual Studio Code IDE**<br>
 Ubuntu <br>
 1. Download VScode<br>
+* [Visual Studio Code IDE](https://code.visualstudio.com) for Windows, Linux or Mac OS.
 2. Instalar VScode<br>
 https://help.ubuntu.com/kubuntu/desktopguide/C/manual-install.html<br>
 sudo dpkg -i package_file.deb<br>
@@ -119,9 +117,8 @@ g++ --version<br>
 * [Dev C++ IDE](https://sourceforge.net/projects/orwelldevcpp/files/latest/download) for Windows
 * [Code::Blocks IDE](http://www.codeblocks.org/downloads/binaries) for Windows, Linux or Mac OS.
 * [Visual Studio Code IDE](https://code.visualstudio.com) for Windows, Linux or Mac OS.
-## Steps :
- 1. **Download** the repo.
- 
+## Extension for Visual Studio Code :
+
 EMMET (extensão) - Produtividade 
 * [EMMET](https://docs.emmet.io/cheat-sheet/)
     
