@@ -75,7 +75,35 @@ g++ --version <br>
 gdb --version 
 
 **Visual Studio Code IDE**<br>
-Linux <br>
+Ubuntu <br>
+1. Download VScode<br>
+2. Instalar VScode<br>
+https://help.ubuntu.com/kubuntu/desktopguide/C/manual-install.html<br>
+sudo dpkg -i package_file.deb<br>
+
+3. Instalar a extesão C/C++ Extension Pack no VScode<br>
+4. Verificar se o gcc e g++ esta instalado <br>
+gcc --version<br>
+g++ --version<br>
+
+5. Instalar gcc e g++ <br>
+sudo apt install gcc<br>
+Erro<br>
+sudo apt install g++
+Erro<br>
+
+6. Fazer atualização <br>
+sudo apt update<br>
+apt list --upgradable<br>
+
+7. Tentar instalar novamente gcc e g++<br>
+sudo apt install gcc<br>
+sudo apt install g++<br>
+
+8. Instalação com sucesso <br>
+gcc --version<br>
+g++ --version<br>
+
 ## Software
 * [Dev C++ IDE](https://sourceforge.net/projects/orwelldevcpp/files/latest/download) for Windows
 * [Code::Blocks IDE](http://www.codeblocks.org/downloads/binaries) for Windows, Linux or Mac OS.
