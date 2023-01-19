@@ -122,5 +122,6 @@ g++ --version<br>
 EMMET (extensão) - Produtividade 
 * [EMMET](https://docs.emmet.io/cheat-sheet/)
     
-
+Remote (extensão) - SSH
+* [Remote](https://code.visualstudio.com/docs/remote/ssh-tutorial)
 
