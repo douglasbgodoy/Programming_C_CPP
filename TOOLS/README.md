@@ -61,12 +61,7 @@ Agora com as extensões instaladas é necessário uma configuração para que se
 Para quem tem o CodeBlocks instalado realizar o passo a passo  abaixo ou <a href="https://code.visualstudio.com/docs/cpp/config-mingw"> Documentação Using GCC with MinGW</a>.
 <br>
 <br>
-<!---
-/IMG/IDE-C.png
-/IMG/001-AutoInstallCpp.png
-/IMG/001-AutoInstallCpp.png
-/TOOLS/IMG/001-AutoInstallCpp.png
--->
+
 
 Add the path to your Mingw-w64 bin folder to the Windows PATH environment variable by using the following steps:
 
@@ -98,7 +93,7 @@ g++ --version<br>
 5. Instalar gcc e g++ <br>
 sudo apt install gcc<br>
 Erro<br>
-sudo apt install g++
+sudo apt install g++<br>
 Erro<br>
 
 6. Fazer atualização <br>
@@ -124,4 +119,3 @@ EMMET (extensão) - Produtividade
     
 Remote (extensão) - SSH
 * [Remote](https://code.visualstudio.com/docs/remote/ssh-tutorial)
-
