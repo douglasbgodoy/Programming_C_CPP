@@ -19,8 +19,8 @@
 
     
 ## Information
-Neste momento este conteúdo será disponibilizado em Portugues e Ingles, porém a idéia 
-é ao decorrer do tempo o conteúdo ser disponibilizado totalmente em Ingles.
+Neste momento este conteúdo será disponibilizado em Português e Inglês, porém a idéia 
+é ao decorrer do tempo o conteúdo ser disponibilizado totalmente em Inglês.
 <br>
 
 Este diretório tem por finalidade ajudar e contribuir com estudos e desenvolvimento, 
