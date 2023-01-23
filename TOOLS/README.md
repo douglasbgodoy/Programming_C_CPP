@@ -24,11 +24,13 @@ Ubuntu<br>
 * [Documentação codeblocks-devs ](https://launchpad.net/~codeblocks-devs)
 * [Documentação codeblocks-devs release ](https://launchpad.net/~codeblocks-devs/+archive/ubuntu/release)
 2. Fazer atualização <br>
-sudo apt update<br>
-
+```
+sudo apt update
+```
 3. Instalar<br>
-sudo apt install codeblocks<br>
-
+```
+sudo apt install codeblocks
+```
 **Visual Studio Code IDE**<br>
 Online<br>
 * [Visual Studio Code Online](https://vscode.dev/)<br>
@@ -73,41 +75,49 @@ Add the path to your Mingw-w64 bin folder to the Windows PATH environment variab
 6. Reboot or Sign out  <br>
 **Check your MinGW installation**<br>
 To check that your Mingw-w64 tools are correctly installed and available, open a new Command Prompt and type: <br>
-gcc --version <br>
-g++ --version <br>
+```
+gcc --version 
+g++ --version 
 gdb --version 
-
+```
 **Visual Studio Code IDE**<br>
 Ubuntu <br>
 1. Download VScode<br>
 * [Visual Studio Code IDE](https://code.visualstudio.com) for Windows, Linux or Mac OS.
 2. Instalar VScode<br>
 https://help.ubuntu.com/kubuntu/desktopguide/C/manual-install.html<br>
-sudo dpkg -i package_file.deb<br>
-
+```
+sudo dpkg -i package_file.deb
+```
 3. Instalar a extesão C/C++ Extension Pack no VScode<br>
+
 4. Verificar se o gcc e g++ esta instalado <br>
-gcc --version<br>
-g++ --version<br>
-
+```
+gcc --version
+g++ --version
+```
 5. Instalar gcc e g++ <br>
-sudo apt install gcc<br>
-Erro<br>
+```
+sudo apt install gcc
+-Erro
 sudo apt install g++<br>
-Erro<br>
-
+-Erro
+```
 6. Fazer atualização <br>
-sudo apt update<br>
-apt list --upgradable<br>
-
+```
+sudo apt update
+apt list --upgradable
+```
 7. Tentar instalar novamente gcc e g++<br>
-sudo apt install gcc<br>
-sudo apt install g++<br>
-
+```
+sudo apt install gcc
+sudo apt install g++
+```
 8. Instalação com sucesso <br>
-gcc --version<br>
-g++ --version<br>
-
+```
+gcc --version
+g++ --version
+```
 ## Software
 * [Dev C++ IDE](https://sourceforge.net/projects/orwelldevcpp/files/latest/download) for Windows
 * [Code::Blocks IDE](http://www.codeblocks.org/downloads/binaries) for Windows, Linux or Mac OS.
