@@ -8,16 +8,16 @@ This file contains all the steps and information that was recorded to help you d
 
 **Step 1:** User left double click on "CodeBlocks (list item)" in "Program Manager"
 
-*No screenshots were saved for this step.*
+<p align="center"> 
+<img src="/INSTRUCTIONS/IMG/CodeBlocks/001-CodeBlocks.jpeg" width="400" align="center">
+</p 
 
------
-[
 
 **Step 2:** User left click on "File (menu item)" in "Start here - Code::Blocks 20.03"
 
-*No screenshots were saved for this step.*
-
------
+<p align="center"> 
+<img src="/INSTRUCTIONS/IMG/CodeBlocks/002-CodeBlocks.jpeg" width="400" align="center">
+</p 
 
 **Step 3:** User left click on "Project... (menu item)"
 
