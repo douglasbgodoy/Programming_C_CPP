@@ -2,6 +2,9 @@
 -----
 This file contains all the steps and information that was recorded to help you describe the recorded steps to others. 
 
+-----
+# Steps
+-----
 
 **Step 1:** User left double click on "CodeBlocks (list item)" in "Program Manager"
 
