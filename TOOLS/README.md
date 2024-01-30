@@ -129,3 +129,6 @@ EMMET (extensão) - Produtividade
     
 Remote (extensão) - SSH
 * [Remote](https://code.visualstudio.com/docs/remote/ssh-tutorial)
+
+Code Runner (extensão) - .run
+* [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
