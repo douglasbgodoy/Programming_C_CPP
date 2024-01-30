@@ -100,7 +100,7 @@ g++ --version
 ```
 sudo apt install gcc
 -Erro
-sudo apt install g++<br>
+sudo apt install g++ <br>
 -Erro
 ```
 6. Fazer atualização <br>
