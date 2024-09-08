@@ -68,9 +68,9 @@ Para quem tem o CodeBlocks instalado realizar o passo a passo  abaixo ou <a href
 Add the path to your Mingw-w64 bin folder to the Windows PATH environment variable by using the following steps:
 
 1. In the Windows search bar, type **'settings'** to open your Windows Settings.<br>
-2. Search for **Edit environment variables for your account**.<br>
-3. Choose the Path variable in your **User variables** and then select **Edit**.<br>
-4. Select **New** and add the Mingw-w64 destination folder path to the system path. The exact path depends on which version of Mingw-w64 you have installed and where you installed it. If you used the settings above to install Mingw-w64, then add this to the path: C:\Program Files\CodeBlocks\MinGW\bin. <br>
+2. Search for **'Edit environment variables for your account'**.<br>
+3. Choose the **'Path'** variable in your User variables and then select **'Edit'**.<br>
+4. Select **'New'** and add the Mingw-w64 destination folder path to the system path. The exact path depends on which version of Mingw-w64 you have installed and where you installed it. If you used the settings above to install Mingw-w64, then add this to the path: C:\Program Files\CodeBlocks\MinGW\bin. <br>
 5. Select OK to save the updated PATH. You will need to reopen any console windows for the new PATH location to be available.
 6. Reboot or Sign out  <br>
 **Check your MinGW installation**<br>
