@@ -10,6 +10,15 @@
 
 ## Concept
 
+## Directory structure
+```
+/CODE                           # Códigos-fonte e exemplos práticos
+/IMG                            # Imagens utilizadas na documentação
+/INSTRUCTIONS/DOC               # Documentação técnica, guias e apresentações
+/INSTRUCTIONS/WALKTHROUGHS      # Tutoriais e procedimentos passo a passo
+/LIB                            # Bibliotecas e componentes auxiliares
+/TOOLS                          # Ferramentas, scripts e utilitários
+```
 
 ## Software
 * [Dev C++ IDE](https://sourceforge.net/projects/orwelldevcpp/files/latest/download) for Windows
